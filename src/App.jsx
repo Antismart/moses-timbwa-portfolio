@@ -162,7 +162,7 @@ const About = () => (
           </Text>
         </Box>
         <Flex justify="center" align="center">
-          <Avatar size={{ base: "xl", md: "2xl" }} name="Moses Timbwa" src="/_MG_6910.jpg" />
+          <Avatar size={{ base: "xl", md: "2xl" }} name="Moses Timbwa" src="/102155756.jpeg" />
         </Flex>
       </SimpleGrid>
     </Container>
