@@ -306,7 +306,7 @@ const Contact = () => (
         <Button leftIcon={<FaGithub />} colorScheme="gray" as="a" href="https://github.com/Antismart" target="_blank">
           GitHub
         </Button>
-        <Button leftIcon={<FaLinkedin />} colorScheme="blue" as="a" href="www.linkedin.com/in/moses-timbwa-115286241" target="_blank">
+        <Button leftIcon={<FaLinkedin />} colorScheme="blue" as="a" href="https://www.linkedin.com/in/moses-timbwa-115286241" target="_blank">
           LinkedIn
         </Button>
         <Button colorScheme="brand" as="a" href="mailto:timbwamoses83@gmail.com">
